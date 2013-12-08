@@ -51,7 +51,7 @@ return array(
 	'name_exists' => 'Nom déjà utilisé',
 
 	'value' => 'Valeur ',
-	'value_explain' => 'La donnée a stocker (jusqu\'à 64kb)',
+	'value_explain' => 'La donnée à stocker (jusqu\'à 64kb)',
 	'value_code_snipet' => 'Fragment de code à insérer dans votre template :<br>
 		<code>' . e('<?php echo site_meta(\'%s\'); ?>') . '</code>',
 
